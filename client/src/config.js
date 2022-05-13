@@ -1,0 +1,1 @@
+export const LoansAddress = "0xB84086FB2228333a1Bafa04Cde61E46B206D19f9"
